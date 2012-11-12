@@ -28,3 +28,6 @@
 [submodule "modules/minion"]
 	path = modules/minion
 	url = http://github.com/kohana/minion.git
+[submodule "modules/jelly"]
+	path = modules/jelly
+	url = git@github.com:bionicmaster/jelly.git
