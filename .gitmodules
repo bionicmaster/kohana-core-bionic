@@ -31,3 +31,21 @@
 [submodule "modules/jelly"]
 	path = modules/jelly
 	url = git@github.com:bionicmaster/jelly.git
+[submodule "modules/jelly-auth"]
+	path = modules/jelly-auth
+	url = git@github.com:bionicmaster/jelly-auth.git
+[submodule "modules/kohana-admin"]
+	path = modules/kohana-admin
+	url = git@github.com:bionicmaster/kohana-admin.git
+[submodule "modules/kohana-Codegen"]
+	path = modules/kohana-Codegen
+	url = git@github.com:bionicmaster/Kohana-Codegen.git
+[submodule "modules/sso"]
+	path = modules/sso
+	url = git@github.com:bionicmaster/sso.git
+[submodule "modules/kohana-pagination"]
+	path = modules/kohana-pagination
+	url = git@github.com:bionicmaster/kohana-pagination.git
+[submodule "modules/flexiasset"]
+	path = modules/flexiasset
+	url = git@github.com:bionicmaster/flexiasset.git
