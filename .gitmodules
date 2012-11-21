@@ -46,6 +46,3 @@
 [submodule "modules/kohana-pagination"]
 	path = modules/kohana-pagination
 	url = git@github.com:bionicmaster/kohana-pagination.git
-[submodule "modules/flexiasset"]
-	path = modules/flexiasset
-	url = git@github.com:bionicmaster/flexiasset.git
